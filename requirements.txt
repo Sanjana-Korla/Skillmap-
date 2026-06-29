@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-classic
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+matplotlib
+reportlab
+python-dotenv
+pandas
+numpy
+pypdf

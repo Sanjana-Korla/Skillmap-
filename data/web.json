@@ -1,0 +1,156 @@
+[
+  {
+    "role": "Frontend Web Developer",
+    "domain": "Web Development",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Responsive Design", "Bootstrap", "Git", "Web Performance"],
+    "responsibilities": [
+      "Develop user interfaces",
+      "Implement responsive designs",
+      "Optimize website performance",
+      "Collaborate with designers",
+      "Debug frontend issues",
+      "Ensure cross-browser compatibility",
+      "Maintain web applications"
+    ]
+  },
+  {
+    "role": "Backend Web Developer",
+    "domain": "Web Development",
+    "skills": ["Node.js", "Python", "SQL", "REST APIs", "MongoDB", "Express.js", "Git", "Database Design"],
+    "responsibilities": [
+      "Develop backend services",
+      "Design APIs",
+      "Manage databases",
+      "Implement business logic",
+      "Optimize server performance",
+      "Ensure application security",
+      "Maintain backend systems"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "domain": "Web Development",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express.js", "MongoDB", "Git"],
+    "responsibilities": [
+      "Develop full stack applications",
+      "Build frontend interfaces",
+      "Develop backend services",
+      "Integrate databases",
+      "Deploy web applications",
+      "Optimize performance",
+      "Maintain application functionality"
+    ]
+  },
+  {
+    "role": "MERN Stack Developer",
+    "domain": "Web Development",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js", "JavaScript", "REST APIs", "Git", "Redux"],
+    "responsibilities": [
+      "Develop MERN applications",
+      "Build reusable components",
+      "Create backend APIs",
+      "Manage MongoDB databases",
+      "Implement authentication",
+      "Optimize application performance",
+      "Deploy web solutions"
+    ]
+  },
+  {
+    "role": "React Developer",
+    "domain": "Web Development",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Redux", "REST APIs", "Git", "TypeScript"],
+    "responsibilities": [
+      "Develop React applications",
+      "Build reusable UI components",
+      "Manage application state",
+      "Integrate APIs",
+      "Optimize frontend performance",
+      "Debug application issues",
+      "Maintain code quality"
+    ]
+  },
+  {
+    "role": "Node.js Developer",
+    "domain": "Web Development",
+    "skills": ["Node.js", "JavaScript", "Express.js", "MongoDB", "REST APIs", "SQL", "Git", "Microservices"],
+    "responsibilities": [
+      "Develop backend applications",
+      "Create REST APIs",
+      "Manage databases",
+      "Implement server-side logic",
+      "Optimize backend performance",
+      "Ensure application security",
+      "Maintain backend infrastructure"
+    ]
+  },
+  {
+    "role": "Angular Developer",
+    "domain": "Web Development",
+    "skills": ["Angular", "TypeScript", "HTML", "CSS", "JavaScript", "RxJS", "REST APIs", "Git"],
+    "responsibilities": [
+      "Develop Angular applications",
+      "Build dynamic user interfaces",
+      "Integrate backend APIs",
+      "Optimize application performance",
+      "Implement responsive designs",
+      "Debug frontend issues",
+      "Maintain application codebase"
+    ]
+  },
+  {
+    "role": "Web Application Developer",
+    "domain": "Web Development",
+    "skills": ["JavaScript", "HTML", "CSS", "React", "Node.js", "SQL", "REST APIs", "Git"],
+    "responsibilities": [
+      "Develop web applications",
+      "Implement application features",
+      "Integrate frontend and backend",
+      "Manage databases",
+      "Test application functionality",
+      "Optimize user experience",
+      "Maintain web systems"
+    ]
+  },
+  {
+    "role": "UI Developer",
+    "domain": "Web Development",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "Responsive Design", "Figma", "Git"],
+    "responsibilities": [
+      "Develop user interfaces",
+      "Convert designs into code",
+      "Implement responsive layouts",
+      "Improve user experience",
+      "Collaborate with designers",
+      "Optimize frontend performance",
+      "Maintain UI consistency"
+    ]
+  },
+  {
+    "role": "Web Designer",
+    "domain": "Web Development",
+    "skills": ["Figma", "Adobe XD", "HTML", "CSS", "UI Design", "UX Design", "Wireframing", "Prototyping"],
+    "responsibilities": [
+      "Design website layouts",
+      "Create wireframes",
+      "Develop prototypes",
+      "Improve user experience",
+      "Collaborate with developers",
+      "Maintain design consistency",
+      "Create visual assets"
+    ]
+  },
+  {
+    "role": "WordPress Developer",
+    "domain": "Web Development",
+    "skills": ["WordPress", "PHP", "HTML", "CSS", "JavaScript", "MySQL", "Theme Development", "Plugin Development"],
+    "responsibilities": [
+      "Develop WordPress websites",
+      "Customize themes",
+      "Build plugins",
+      "Manage website content",
+      "Optimize website performance",
+      "Ensure website security",
+      "Maintain WordPress applications"
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "role": "Data Scientist",
+    "domain": "Data Science",
+    "skills": ["Python", "Machine Learning", "SQL", "Statistics", "Data Analysis", "Data Visualization", "Deep Learning", "Feature Engineering"],
+    "responsibilities": [
+      "Analyze complex datasets",
+      "Build predictive models",
+      "Perform statistical analysis",
+      "Develop machine learning solutions",
+      "Extract actionable insights",
+      "Optimize model performance",
+      "Communicate findings to stakeholders"
+    ]
+  },
+  {
+    "role": "Data Analyst",
+    "domain": "Data Science",
+    "skills": ["SQL", "Python", "Excel", "Power BI", "Tableau", "Statistics", "Data Cleaning", "Data Visualization"],
+    "responsibilities": [
+      "Analyze business data",
+      "Create dashboards",
+      "Generate reports",
+      "Identify trends and patterns",
+      "Ensure data accuracy",
+      "Support business decisions",
+      "Present insights to teams"
+    ]
+  },
+  {
+    "role": "Business Analyst",
+    "domain": "Data Science",
+    "skills": ["SQL", "Excel", "Data Analysis", "Business Intelligence", "Requirements Analysis", "Power BI", "Tableau", "Excel VBA"],
+    "responsibilities": [
+      "Analyze business requirements",
+      "Identify process improvements",
+      "Gather stakeholder needs",
+      "Create business reports",
+      "Support decision making",
+      "Monitor business performance",
+      "Recommend strategic solutions"
+    ]
+  },
+  {
+    "role": "BI Developer",
+    "domain": "Data Science",
+    "skills": ["SQL", "Power BI", "Tableau", "ETL", "Data Warehousing", "Python", "Data Modeling", "Business Intelligence"],
+    "responsibilities": [
+      "Develop BI solutions",
+      "Create interactive dashboards",
+      "Build data models",
+      "Design ETL pipelines",
+      "Optimize reporting systems",
+      "Maintain BI infrastructure",
+      "Support business users"
+    ]
+  },
+  {
+    "role": "Data Engineer",
+    "domain": "Data Science",
+    "skills": ["Python", "SQL", "ETL", "Apache Spark", "Data Warehousing", "AWS", "Hadoop", "Data Pipelines"],
+    "responsibilities": [
+      "Build data pipelines",
+      "Manage large datasets",
+      "Develop ETL processes",
+      "Ensure data reliability",
+      "Optimize data workflows",
+      "Maintain data infrastructure",
+      "Support analytics teams"
+    ]
+  },
+  {
+    "role": "Data Architect",
+    "domain": "Data Science",
+    "skills": ["Data Modeling", "SQL", "Data Warehousing", "Azure", "AWS", "Database Design", "ETL", "Snowflake"],
+    "responsibilities": [
+      "Design data architecture",
+      "Develop database solutions",
+      "Define data standards",
+      "Ensure data governance",
+      "Optimize data storage",
+      "Support enterprise systems",
+      "Guide technical teams"
+    ]
+  },
+  {
+    "role": "Machine Learning Analyst",
+    "domain": "Data Science",
+    "skills": ["Python", "Machine Learning", "SQL", "Statistics", "Data Analysis", "Data Visualization", "Model Evaluation", "Feature Engineering"],
+    "responsibilities": [
+      "Analyze ML datasets",
+      "Evaluate machine learning models",
+      "Perform feature engineering",
+      "Generate analytical insights",
+      "Monitor model performance",
+      "Support ML projects",
+      "Prepare data for modeling"
+    ]
+  },
+  {
+    "role": "Quantitative Analyst",
+    "domain": "Data Science",
+    "skills": ["Python", "Statistics", "Numpy", "SQL", "Machine Learning", "Financial Modeling", "Data Analysis", "Monte Carlo Simulation"],
+    "responsibilities": [
+      "Develop quantitative models",
+      "Analyze financial data",
+      "Perform risk assessments",
+      "Conduct statistical analysis",
+      "Build forecasting models",
+      "Optimize investment strategies",
+      "Generate analytical reports"
+    ]
+  },
+  {
+    "role": "Decision Scientist",
+    "domain": "Data Science",
+    "skills": ["Python", "SQL", "Statistics", "Machine Learning", "Hypothesis Testing", "Data Visualization", "Pandas", "A/B Testing"],
+    "responsibilities": [
+      "Support business decisions",
+      "Analyze experimental results",
+      "Build predictive models",
+      "Conduct A/B testing",
+      "Generate strategic insights",
+      "Evaluate business performance",
+      "Recommend data-driven actions"
+    ]
+  },
+  {
+    "role": "Data Visualization Specialist",
+    "domain": "Data Science",
+    "skills": ["Tableau", "Power BI", "SQL", "Python", "Data Visualization", "Dashboard Design", "Data Analysis", "DAX"],
+    "responsibilities": [
+      "Create visual dashboards",
+      "Design data reports",
+      "Present analytical insights",
+      "Improve data storytelling",
+      "Develop visualization solutions",
+      "Ensure report accuracy",
+      "Support business users"
+    ]
+  },
+  {
+    "role": "Insights Analyst",
+    "domain": "Data Science",
+    "skills": ["SQL", "Python", "Data Analysis", "Statistics", "Power BI", "Tableau", "Excel", "Business Intelligence"],
+    "responsibilities": [
+      "Generate business insights",
+      "Analyze customer behavior",
+      "Prepare analytical reports",
+      "Identify market trends",
+      "Support strategic planning",
+      "Monitor performance metrics",
+      "Present recommendations"
+    ]
+  },
+  {
+    "role": "Operations Analyst",
+    "domain": "Data Science",
+    "skills": ["SQL", "Excel", "Python", "Data Analysis", "Statistics", "Process Optimization", "Power BI", "Tableau"],
+    "responsibilities": [
+      "Analyze operational data",
+      "Improve business processes",
+      "Track performance metrics",
+      "Develop operational reports",
+      "Identify inefficiencies",
+      "Support process improvements",
+      "Recommend optimization strategies"
+    ]
+  },
+  {
+    "role": "Risk Analyst",
+    "domain": "Data Science",
+    "skills": ["Python", "SQL", "Statistics", "SAS", "Financial Modeling", "Data Analysis", "Excel", "Power BI"],
+    "responsibilities": [
+      "Assess business risks",
+      "Analyze risk data",
+      "Develop risk models",
+      "Monitor risk indicators",
+      "Prepare risk reports",
+      "Support compliance efforts",
+      "Recommend mitigation strategies"
+    ]
+  },
+  {
+    "role": "Product Analyst",
+    "domain": "Data Science",
+    "skills": ["SQL", "Python", "Statistics", "A/B Testing", "Google Analytics", "Data Visualization", "Product Analytics", "Tableau"],
+    "responsibilities": [
+      "Analyze product performance",
+      "Track user behavior",
+      "Conduct A/B testing",
+      "Generate product insights",
+      "Support product decisions",
+      "Monitor key metrics",
+      "Recommend feature improvements"
+    ]
+  }
+]

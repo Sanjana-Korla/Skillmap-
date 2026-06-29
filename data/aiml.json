@@ -1,0 +1,212 @@
+[
+  {
+    "role": "AI Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "LLMs", "NLP", "TensorFlow", "PyTorch", "API Development"],
+    "responsibilities": [
+      "Build AI applications",
+      "Develop intelligent systems",
+      "Integrate AI models",
+      "Deploy AI solutions",
+      "Optimize model performance",
+      "Analyze business requirements",
+      "Maintain AI pipelines"
+    ]
+  },
+  {
+    "role": "Deep Learning Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Deep Learning", "Neural Networks", "TensorFlow", "PyTorch", "Computer Vision", "Model Optimization", "GPU Computing"],
+    "responsibilities": [
+      "Design neural networks",
+      "Train deep learning models",
+      "Optimize model performance",
+      "Deploy DL solutions",
+      "Process large datasets",
+      "Evaluate model accuracy",
+      "Research advanced architectures"
+    ]
+  },
+  {
+    "role": "NLP Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "NLP", "Machine Learning", "Transformers", "LLMs", "Text Processing", "PyTorch", "Hugging Face"],
+    "responsibilities": [
+      "Build NLP models",
+      "Process text data",
+      "Develop language applications",
+      "Improve language understanding",
+      "Fine-tune language models",
+      "Evaluate NLP performance",
+      "Deploy NLP solutions"
+    ]
+  },
+  {
+    "role": "Computer Vision Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Computer Vision", "OpenCV", "Deep Learning", "CNNs", "PyTorch", "Image Processing", "TensorFlow"],
+    "responsibilities": [
+      "Develop vision systems",
+      "Process images and videos",
+      "Train vision models",
+      "Deploy CV applications",
+      "Improve image recognition",
+      "Optimize computer vision pipelines",
+      "Evaluate model accuracy"
+    ]
+  },
+  {
+    "role": "Generative AI Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "LLMs", "Prompt Engineering", "LangChain", "RAG", "Vector Databases", "Transformers", "API Integration"],
+    "responsibilities": [
+      "Build GenAI applications",
+      "Develop LLM workflows",
+      "Implement RAG pipelines",
+      "Optimize AI responses",
+      "Fine-tune foundation models",
+      "Integrate AI services",
+      "Monitor application performance"
+    ]
+  },
+  {
+    "role": "MLOps Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "MLOps", "Docker", "Kubernetes", "CI/CD", "AWS", "Model Deployment", "Git"],
+    "responsibilities": [
+      "Deploy ML models",
+      "Automate ML pipelines",
+      "Monitor model performance",
+      "Manage ML infrastructure",
+      "Implement CI/CD workflows",
+      "Ensure system scalability",
+      "Maintain production environments"
+    ]
+  },
+  {
+    "role": "AI Research Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Statistics", "PyTorch", "Transformers", "Mathematics", "Model Evaluation"],
+    "responsibilities": [
+      "Conduct AI research",
+      "Develop new algorithms",
+      "Evaluate model performance",
+      "Publish research findings",
+      "Design experiments",
+      "Analyze research data",
+      "Prototype innovative solutions"
+    ]
+  },
+  {
+    "role": "Applied AI Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "API Integration", "Cloud Computing", "Data Processing"],
+    "responsibilities": [
+      "Apply AI to business problems",
+      "Build AI solutions",
+      "Integrate AI systems",
+      "Deploy production models",
+      "Analyze business needs",
+      "Optimize AI workflows",
+      "Collaborate with stakeholders"
+    ]
+  },
+  {
+    "role": "LLM Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "LLMs", "Transformers", "Prompt Engineering", "RAG", "LangChain", "Vector Databases", "Fine-Tuning"],
+    "responsibilities": [
+      "Develop LLM applications",
+      "Fine-tune language models",
+      "Implement RAG systems",
+      "Optimize LLM performance",
+      "Evaluate model outputs",
+      "Manage vector databases",
+      "Deploy LLM solutions"
+    ]
+  },
+  {
+    "role": "Prompt Engineer",
+    "domain": "AI/ML",
+    "skills": ["Prompt Engineering", "LLMs", "Generative AI", "NLP", "Prompt Optimization", "LangChain", "Python", "RAG"],
+    "responsibilities": [
+      "Design effective prompts",
+      "Optimize AI outputs",
+      "Evaluate model responses",
+      "Improve prompt workflows",
+      "Test prompt variations",
+      "Analyze output quality",
+      "Collaborate with AI teams"
+    ]
+  },
+  {
+    "role": "Recommendation Systems Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Machine Learning", "Recommendation Systems", "SQL", "Data Mining", "Statistics", "Collaborative Filtering", "Deep Learning"],
+    "responsibilities": [
+      "Build recommendation engines",
+      "Analyze user behavior",
+      "Improve personalization",
+      "Optimize recommendations",
+      "Train recommendation models",
+      "Evaluate recommendation quality",
+      "Deploy recommendation systems"
+    ]
+  },
+  {
+    "role": "Analytics Engineer",
+    "domain": "AI/ML",
+    "skills": ["SQL", "Python", "Data Modeling", "Machine Learning", "Apache Spark", "ETL", "Data Engineering", "Data Analysis"],
+    "responsibilities": [
+      "Analyze business data",
+      "Build data models",
+      "Prepare ML-ready datasets",
+      "Analyze ML performance",
+      "Manage ETL workflows",
+      "Improve data quality",
+      "Support machine learning workflows"
+    ]
+  },
+  {
+    "role": "Reinforcement Learning Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Reinforcement Learning", "Deep Learning", "PyTorch", "Mathematics", "Optimization", "Simulation", "Machine Learning"],
+    "responsibilities": [
+      "Develop RL agents",
+      "Train decision-making models",
+      "Run simulations",
+      "Optimize learning policies",
+      "Evaluate agent performance",
+      "Design reward functions",
+      "Deploy RL solutions"
+    ]
+  },
+  {
+    "role": "Robotics AI Engineer",
+    "domain": "AI/ML",
+    "skills": ["Python", "Robotics", "ROS", "Computer Vision", "Machine Learning", "Deep Learning", "Sensor Fusion", "Control Systems"],
+    "responsibilities": [
+      "Develop robotic systems",
+      "Implement AI algorithms",
+      "Process sensor data",
+      "Improve robot autonomy",
+      "Integrate robotic hardware",
+      "Test robotic applications",
+      "Optimize control systems"
+    ]
+  },
+  {
+    "role": "AI Solutions Architect",
+    "domain": "AI/ML",
+    "skills": ["Python", "Machine Learning", "Cloud Computing", "AWS", "System Design", "LLMs", "MLOps", "Model Deployment"],
+    "responsibilities": [
+      "Design AI solutions",
+      "Define system architecture",
+      "Guide AI implementation",
+      "Ensure scalability and performance",
+      "Evaluate technology stacks",
+      "Manage solution integration",
+      "Support technical teams"
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "role": "Software Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "Java", "Data Structures", "Algorithms", "SQL", "Git", "System Design", "Object-Oriented Programming"],
+    "responsibilities": [
+      "Develop software applications",
+      "Write clean code",
+      "Debug software issues",
+      "Collaborate with teams",
+      "Optimize application performance",
+      "Perform code reviews",
+      "Maintain software systems"
+    ]
+  },
+  {
+    "role": "Software Developer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "Java", "JavaScript", "SQL", "Git", "REST APIs", "OOP", "Debugging"],
+    "responsibilities": [
+      "Develop software solutions",
+      "Implement application features",
+      "Fix software defects",
+      "Write technical documentation",
+      "Test application functionality",
+      "Collaborate with developers",
+      "Maintain software products"
+    ]
+  },
+  {
+    "role": "Backend Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "Java", "SQL", "REST APIs", "Microservices", "Database Design", "Docker", "System Design"],
+    "responsibilities": [
+      "Develop backend services",
+      "Design APIs",
+      "Manage databases",
+      "Optimize server performance",
+      "Implement business logic",
+      "Ensure application security",
+      "Maintain backend infrastructure"
+    ]
+  },
+  {
+    "role": "Frontend Engineer",
+    "domain": "Software Engineering",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Bootstrap", "Redux", "Git"],
+    "responsibilities": [
+      "Develop user interfaces",
+      "Implement responsive designs",
+      "Optimize frontend performance",
+      "Collaborate with designers",
+      "Fix UI issues",
+      "Ensure accessibility standards",
+      "Maintain frontend applications"
+    ]
+  },
+  {
+    "role": "Python Developer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "Django", "Flask", "SQL", "REST APIs", "Git", "Docker", "Object-Oriented Programming"],
+    "responsibilities": [
+      "Develop Python applications",
+      "Build backend services",
+      "Design APIs",
+      "Manage databases",
+      "Debug application issues",
+      "Optimize application performance",
+      "Maintain code quality"
+    ]
+  },
+  {
+    "role": "Full Stack Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "JavaScript", "React", "Node.js", "SQL", "REST APIs", "Git", "Docker"],
+    "responsibilities": [
+      "Develop full stack applications",
+      "Build frontend interfaces",
+      "Develop backend services",
+      "Integrate databases",
+      "Deploy applications",
+      "Optimize performance",
+      "Maintain application functionality"
+    ]
+  },
+  {
+    "role": "Java Developer",
+    "domain": "Software Engineering",
+    "skills": ["Java", "Spring Boot", "SQL", "REST APIs", "Hibernate", "Microservices", "Git", "OOP"],
+    "responsibilities": [
+      "Develop Java applications",
+      "Build enterprise solutions",
+      "Design backend services",
+      "Implement business logic",
+      "Optimize application performance",
+      "Debug software issues",
+      "Maintain Java systems"
+    ]
+  },
+  {
+    "role": "Application Developer",
+    "domain": "Software Engineering",
+    "skills": ["Java", "Python", "SQL", "Spring Boot", "REST APIs", "Git", "Testing", "Docker"],
+    "responsibilities": [
+      "Develop business applications",
+      "Implement software features",
+      "Test application functionality",
+      "Fix application defects",
+      "Collaborate with stakeholders",
+      "Maintain application systems",
+      "Improve user experience"
+    ]
+  },
+  {
+    "role": "Cloud Engineer",
+    "domain": "Software Engineering",
+    "skills": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Linux", "Terraform", "Python"],
+    "responsibilities": [
+      "Manage cloud infrastructure",
+      "Deploy cloud applications",
+      "Automate cloud operations",
+      "Monitor cloud resources",
+      "Optimize cloud costs",
+      "Implement security controls",
+      "Maintain cloud environments"
+    ]
+  },
+  {
+    "role": "DevOps Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "Linux", "AWS", "Git", "Terraform", "Python"],
+    "responsibilities": [
+      "Automate deployment pipelines",
+      "Manage infrastructure",
+      "Monitor system performance",
+      "Implement CI/CD processes",
+      "Maintain cloud environments",
+      "Ensure system reliability",
+      "Improve deployment efficiency"
+    ]
+  },
+  {
+    "role": "Site Reliability Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Linux", "Python", "Kubernetes", "AWS", "Prometheus", "Grafana", "Networking", "Terraform"],
+    "responsibilities": [
+      "Ensure system reliability",
+      "Monitor application performance",
+      "Automate operational tasks",
+      "Manage incidents",
+      "Improve system scalability",
+      "Optimize infrastructure",
+      "Maintain service availability"
+    ]
+  },
+  {
+    "role": "Platform Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Kubernetes", "Docker", "AWS", "Terraform", "Linux", "CI/CD", "Python", "System Design"],
+    "responsibilities": [
+      "Build platform solutions",
+      "Manage infrastructure services",
+      "Automate platform operations",
+      "Support development teams",
+      "Improve scalability",
+      "Ensure platform reliability",
+      "Maintain engineering tools"
+    ]
+  },
+  {
+    "role": "System Engineer",
+    "domain": "Software Engineering",
+    "skills": ["Linux", "Networking", "Python", "Shell Scripting", "AWS", "Security", "Ansible", "Monitoring"],
+    "responsibilities": [
+      "Manage system infrastructure",
+      "Monitor system performance",
+      "Troubleshoot technical issues",
+      "Implement security measures",
+      "Maintain system availability",
+      "Support IT operations",
+      "Optimize system resources"
+    ]
+  },
+  {
+    "role": "API Developer",
+    "domain": "Software Engineering",
+    "skills": ["Python", "Java", "REST APIs", "SQL", "Postman", "Microservices", "Git", "API Security"],
+    "responsibilities": [
+      "Develop APIs",
+      "Design API architecture",
+      "Integrate backend services",
+      "Test API functionality",
+      "Ensure API security",
+      "Optimize API performance",
+      "Maintain API documentation"
+    ]
+  },
+  {
+    "role": "Solutions Engineer",
+    "domain": "Software Engineering",
+    "skills": ["System Design", "AWS", "Python", "SQL", "REST APIs", "Docker", "Kubernetes", "Microservices"],
+    "responsibilities": [
+      "Design technical solutions",
+      "Analyze customer requirements",
+      "Implement software integrations",
+      "Support solution deployment",
+      "Provide technical guidance",
+      "Optimize system architecture",
+      "Collaborate with stakeholders"
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "skill": "Statistics",
+    "title": "Statistics Masterclass on freeCodeCamp",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=xxpc-HPGWTo"
+  },
+  {
+    "skill": "Statistics",
+    "title": "Google Professional Statistics Specialization",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/key-technologies-statistics"
+  },
+  {
+    "skill": "Python",
+    "title": "Python for Everybody Specialization",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "skill": "Machine Learning",
+    "title": "Machine Learning Zoomcamp",
+    "platform": "GitHub",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code"
+  },
+  {
+    "skill": "SQL",
+    "title": "Complete SQL Mastery",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=HXV3zebJHwM"
+  },
+  {
+    "skill": "Data Analysis",
+    "title": "Data Analysis with Python Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=r-uOLxNrNY8"
+  },
+  {
+    "skill": "Deep Learning",
+    "title": "Deep Learning Specialization",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "skill": "Feature Engineering",
+    "title": "Feature Engineering for Machine Learning",
+    "platform": "GitHub",
+    "url": "https://github.com/solegalli/feature-engineering-for-machine-learning"
+  },
+  {
+    "skill": "NLP",
+    "title": "Natural Language Processing Specialization",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/natural-language-processing"
+  },
+  {
+    "skill": "LLMs",
+    "title": "Generative AI with Large Language Models",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/generative-ai-with-llms"
+  },
+  {
+    "skill": "Prompt Engineering",
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mEsleV16qDo"
+  },
+  {
+    "skill": "LangChain",
+    "title": "LangChain for LLM Application Development",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/langchain-llm-application-development"
+  },
+  {
+    "skill": "PyTorch",
+    "title": "PyTorch for Deep Learning Bootcamp",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=V_xro1bcAuA"
+  },
+  {
+    "skill": "RAG",
+    "title": "Retrieval Augmented Generation (RAG) Deep Dive",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M"
+  },
+  {
+    "skill": "TensorFlow",
+    "title": "TensorFlow Developer Professional Certificate",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+  },
+  {
+    "skill": "API Development",
+    "title": "FastAPI Complete Tutorial",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=tLKKmouUams"
+  },
+  {
+    "skill": "Docker",
+    "title": "Docker for Beginners",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pTFZFxd4hOI"
+  },
+  {
+    "skill": "Kubernetes",
+    "title": "Kubernetes Bootcamp Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=X48VuDVv0do"
+  },
+  {
+    "skill": "AWS",
+    "title": "AWS Certified Cloud Practitioner Training",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=SOTamWGuDKc"
+  },
+  {
+    "skill": "Git",
+    "title": "Git and GitHub for Beginners",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+  },
+  {
+    "skill": "MLOps",
+    "title": "MLOps Zoomcamp Practical Course",
+    "platform": "GitHub",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp"
+  },
+  {
+    "skill": "Tableau",
+    "title": "Tableau for Beginners Training Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=aHaOIvR00Mc"
+  },
+  {
+    "skill": "Power BI",
+    "title": "Power BI Full Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=TmhQCQr_DCA"
+  },
+  {
+    "skill": "Excel",
+    "title": "Excel for Data Analysts Masterclass",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=OOWBa3Yr76A"
+  },
+  {
+    "skill": "Data Cleaning",
+    "title": "Data Cleaning in Pandas Tutorial",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw"
+  },
+  {
+    "skill": "HTML",
+    "title": "HTML and CSS Full Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=mU6anWqODg0"
+  },
+  {
+    "skill": "CSS",
+    "title": "Advanced CSS Layouts Tutorial",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=1PnVor36_40"
+  },
+  {
+    "skill": "JavaScript",
+    "title": "JavaScript Programming Masterclass",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+  },
+  {
+    "skill": "React",
+    "title": "ReactJS Full Course for Beginners",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
+  },
+  {
+    "skill": "Node.js",
+    "title": "Node.js and Express Complete Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=Oe421EPjeBE"
+  },
+  {
+    "skill": "MongoDB",
+    "title": "MongoDB Full Database Tutorial",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=ofme2o290Y4"
+  },
+  {
+    "skill": "Java",
+    "title": "Java Programming Masterclass",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=A74TOX803D0"
+  },
+  {
+    "skill": "System Design",
+    "title": "System Design Primer & Architectural Patterns",
+    "platform": "GitHub",
+    "url": "https://github.com/donnemartin/system-design-primer"
+  }
+]
